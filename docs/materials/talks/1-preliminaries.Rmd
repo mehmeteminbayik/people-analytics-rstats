@@ -1,5 +1,5 @@
 ---
-title: "Welcome to R for People Analytics"
+title: "Welcome to R for People Analytics (  RfPA  )"
 subtitle: "Introduction and Preliminaries"
 author: "<b>rstudio::</b>conf(2022)"
 output:
@@ -20,6 +20,7 @@ knitr::opts_chunk$set(message = FALSE, warning = FALSE)
 class: left, middle, rstudio-logo, bigfont
 
 ## Good morning and welcome!
+## MEHMET EMİN BAYIK
 
 What we hope you can say at the end of this 2-day workshop: 
 
