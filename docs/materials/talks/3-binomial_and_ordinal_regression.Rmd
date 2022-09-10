@@ -11,8 +11,8 @@ output:
       countIncrementalSlides: false
 ---
 class: left, middle, rstudio-logo, bigfont
-
-  
+ 
+     
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(message = FALSE, warning = FALSE)
@@ -21,7 +21,7 @@ library(MASS)
 ```
 
 
-## Aim of this module
+## Aim of this module zzzzz
 
 &#9989; Learn two more explanatory modeling methods
   - Review binomial logistic regression
