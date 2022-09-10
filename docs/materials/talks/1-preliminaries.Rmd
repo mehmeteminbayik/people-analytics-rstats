@@ -20,7 +20,7 @@ knitr::opts_chunk$set(message = FALSE, warning = FALSE)
 class: left, middle, rstudio-logo, bigfont
 
 ## Good morning and welcome!
-## MEHMET EMİN BAYIK
+
 
 What we hope you can say at the end of this 2-day workshop: 
 
